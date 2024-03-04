@@ -5,9 +5,9 @@
 <img src="https://img.shields.io/badge/react-v18.2-teal" />
 <img src="https://img.shields.io/badge/express-v4.18.2-blue" />
 <img src="https://img.shields.io/badge/mongoose-v7.0.4-darkgreen" />
+<img src="https://img.shields.io/badge/axios-v1.3.6-darkslateblue" />
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/axios-v1.3.6-darkslateblue" />
 <img src="https://img.shields.io/badge/daisyui-v2.51.5-lightseagreen" />
 <img src="https://img.shields.io/badge/tailwindcss-v3.3.1-cadetblue" />
 
