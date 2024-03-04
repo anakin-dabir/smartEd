@@ -27,7 +27,6 @@ SmartEd is a web application provides a comprehensive platform for instructors a
 - Moreover there's two step verification via **OTP** sended to email of user whenever he tries to register or login
 - Instructors can create courses and manage course details like course overview, course content, and assignments with deadlines. They can upload course content, including resources such as docs, PDFs, or images
 - Students can access all course material once they are enrolled
-- Students can submit assignments, and instructors can grade and provide feedback. Students can view their grades once the assignment is evaluated.
 
 ## Run Locally
 
