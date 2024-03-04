@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://anakin-dabir.github.io/public/smartED.png" />
+  <img src="https://anakin-dabir.github.io/public/smartED.png" style='cursor:auto'/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/react-v18.2-teal" />
 <img src="https://img.shields.io/badge/express-v4.18.2-blue" />
 <img src="https://img.shields.io/badge/mongoose-v7.0.4-darkgreen" />
-<img src="https://img.shields.io/badge/socket.io-v4.6.1-white" />
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/axios-v1.3.6-darkslateblue" />
@@ -54,7 +53,6 @@ SmartEd is a web application provides a comprehensive platform for instructors a
 <ol>
 <li>
 <code>MONGO_DB</code> mongodb url</li>
-<li>
 <li>
 <code>OPTIONS</code> config options for mongodb</li>
 <li>
